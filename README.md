@@ -1,4 +1,3 @@
-
 ## PIRATES
 Code for PIRATES Image Reconstruction Algorithm
 
@@ -50,4 +49,3 @@ The directory structure for this repository is as follows. To use this code out 
 </pre>
 
  
-
